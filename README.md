@@ -1,4 +1,4 @@
-# Analyse des avis Yelp via Hadoop/Hive | Portfolio Data Engineer / PhD aspirant
+# Analyse des avis Yelp via Hadoop/Hive |
 
 ## Objectif du projet
 Ce dépôt présente un projet complet d'ingénierie de données Big Data autour du dataset Yelp Open Data. Il est structuré pour valoriser :
